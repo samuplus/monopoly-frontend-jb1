@@ -9,6 +9,10 @@
     justify-content: center;
 }
 
+.menu-container div.icon {
+    margin-left: auto;
+}
+
 .menu-container section.form {
     width: 100%;
     max-width: 380px;
